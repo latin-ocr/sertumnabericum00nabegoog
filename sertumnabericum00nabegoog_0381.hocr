@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sertumnabericum00nabegoog_0381.png"; bbox 0 0 3848 6006; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 362 2655 1487 2922">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 362 2655 1487 2922">
+     <span class='ocr_line' id='line_1_1' title="bbox 362 2655 1487 2750; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 362 2655 472 2748; x_wconf 87' lang='lat' dir='ltr'><strong>DUO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 500 2656 787 2750; x_wconf 82' lang='lat' dir='ltr'><strong>VOCABULA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 815 2657 1026 2750; x_wconf 80' lang='lat' dir='ltr'><strong>GRAECA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1053 2657 1398 2750; x_wconf 80' lang='lat' dir='ltr'>POSTLIMINIO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1428 2655 1487 2747; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 402 2824 1227 2922; baseline -0.006 0"><span class='ocrx_word' id='word_1_6' title='bbox 402 2916 406 2922; x_wconf 84' lang='lat'>.</span> <span class='ocrx_word' id='word_1_7' title='bbox 606 2824 888 2920; x_wconf 81' lang='lat' dir='ltr'>INTEGRUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 916 2826 1227 2918; x_wconf 78' lang='lat' dir='ltr'><strong>RESTITUTA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1928 6006">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1928 6006">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1928 6006; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1928 6006; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

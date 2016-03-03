@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sertumnabericum00nabegoog_0395.png"; bbox 0 0 4144 6154; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 337 2771 1474 2874">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 337 2771 1474 2874">
+     <span class='ocr_line' id='line_1_1' title="bbox 337 2771 1474 2874; baseline -0.004 -6"><span class='ocrx_word' id='word_1_1' title='bbox 337 2777 407 2868; x_wconf 76' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 435 2774 656 2868; x_wconf 81' lang='lat' dir='ltr'>NUMERO</span> <span class='ocrx_word' id='word_1_3' title='bbox 685 2775 1009 2870; x_wconf 76' lang='lat' dir='ltr'><strong>PRAETORUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1039 2780 1088 2872; x_wconf 78' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1119 2779 1210 2874; x_wconf 67' lang='lat'><strong>406</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1240 2771 1474 2868; x_wconf 77' lang='lat' dir='ltr'>ATHENIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 660 2928 1151 3024">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 660 2928 1151 3024">
+     <span class='ocr_line' id='line_1_2' title="bbox 660 2928 1151 3024; baseline 0.006 -2"><span class='ocrx_word' id='word_1_7' title='bbox 660 2928 1151 3024; x_wconf 83' lang='lat' dir='ltr'><strong>OONDEMNATORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2076 6148">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2076 6148">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2076 6148; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2076 6148; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

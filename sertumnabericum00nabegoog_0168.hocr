@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sertumnabericum00nabegoog_0168.png"; bbox 0 0 3848 6006; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 358 2610 1320 2840">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 358 2610 1320 2840">
+     <span class='ocr_line' id='line_1_1' title="bbox 358 2610 1320 2703; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 358 2611 428 2702; x_wconf 80' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 455 2610 776 2702; x_wconf 81' lang='lat' dir='ltr'><strong>DILEG&#39;PIBUS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 805 2612 840 2703; x_wconf 79' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 868 2610 1103 2703; x_wconf 81' lang='lat' dir='ltr'>TRIBUNO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1132 2610 1320 2703; x_wconf 81' lang='lat' dir='ltr'>PLEBIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 693 2748 988 2840; baseline 0.003 -2"><span class='ocrx_word' id='word_1_6' title='bbox 693 2748 988 2840; x_wconf 77' lang='lat' dir='ltr'><strong>lMPEDI&#39;l&#39;IS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1928 6006">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1928 6006">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1928 6006; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1928 6006; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
